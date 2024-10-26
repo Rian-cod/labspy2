@@ -15,7 +15,8 @@ mencari bilangan terbesar dari 3 bilangan
 
 ## screenshots
 
-![App Screenshot](./praktikum 3.1.png)
+<img width="959" alt="praktikum3" src="https://github.com/user-attachments/assets/eaec0001-9327-4d22-a879-1eaa41a03701">
+
 
 ## Langkah langkah algoritme
 
@@ -39,4 +40,5 @@ Langkah 1: Input dari Pengguna
 
 ## Flowerchat
 
-![App Screenshot](./flowerchat2.png)
+![flowerchat 2](https://github.com/user-attachments/assets/d7c31145-166b-449c-a91f-188fee3c3a1b)
+
