@@ -2,8 +2,8 @@
 
 Tugas praktikum 3
 Nama : Rian Andrianto
-Nim : 
-Kelas
+Nim : 352310855
+Kelas : IE.23.c12
 
 ## Membandingkan 3 bilangan
 
