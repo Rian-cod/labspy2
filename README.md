@@ -15,7 +15,7 @@ mencari bilangan terbesar dari 3 bilangan
 
 ## screenshots
 
-![App Screenshot](./praktikum 3.1.png)
+![image](./praktikum 3.1.png)
 
 ## Langkah langkah algoritme
 
